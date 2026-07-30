@@ -1,4 +1,4 @@
-![vuav](./banner.svg)
+![vuav](https://raw.githubusercontent.com/vuav/vuav/main/banner.svg)
 
 security student. i build cryptographic tooling, and i take things apart to understand how they break.
 
@@ -21,7 +21,7 @@ an open-source encrypted volume engine. per-file authenticated encryption, a
 multi-slot header so a volume can be opened by password, hardware key, or a
 recovery share, and a threat model published before a line of the core shipped.
 
-![key hierarchy](./arch.svg)
+![key hierarchy](https://raw.githubusercontent.com/vuav/vuav/main/arch.svg)
 
 ```
 kdf         argon2id            m = 1 GiB, t = 3, p = 4

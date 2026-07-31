@@ -53,8 +53,16 @@ actively-exploited vulnerabilities from the CISA KEV catalog, pulled every morni
 by a workflow in this repo. this block rewrites itself.
 
 <!-- KEV-START -->
-```
-awaiting first sync. the threat-feed workflow fills this within a day.
+```text
+# CISA Known Exploited Vulnerabilities — synced 2026-07-31 08:53 UTC
+
+CVE                ADDED       VENDOR             VULNERABILITY
+CVE-2026-20316     2026-07-29  Cisco              Cisco Secure Firewall Management Center Use o…
+CVE-2025-68686     2026-07-27  Fortinet           Fortinet FortiOS Exposure of Sensitive Inform…
+CVE-2026-16812     2026-07-27  Arista             Arista VeloCloud Orchestrator On-Prem OS Comm…
+CVE-2026-16232     2026-07-22  Check Point        Check Point SmartConsole Improper Authenticat…
+CVE-2026-50522     2026-07-22  Microsoft          Microsoft SharePoint Deserialization of Untru…
+CVE-2026-60137     2026-07-21  WordPress          WordPress Core SQL Injection Vulnerability
 ```
 <!-- KEV-END -->
 

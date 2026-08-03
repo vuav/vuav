@@ -54,7 +54,7 @@ by a workflow in this repo. this block rewrites itself.
 
 <!-- KEV-START -->
 ```text
-# CISA Known Exploited Vulnerabilities — synced 2026-08-02 08:28 UTC
+# CISA Known Exploited Vulnerabilities — synced 2026-08-03 09:51 UTC
 
 CVE                ADDED       VENDOR             VULNERABILITY
 CVE-2026-20316     2026-07-29  Cisco              Cisco Secure Firewall Management Center Use o…

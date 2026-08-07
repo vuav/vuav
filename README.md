@@ -54,7 +54,7 @@ by a workflow in this repo. this block rewrites itself.
 
 <!-- KEV-START -->
 ```text
-# CISA Known Exploited Vulnerabilities — synced 2026-08-06 08:41 UTC
+# CISA Known Exploited Vulnerabilities — synced 2026-08-07 07:20 UTC
 
 CVE                ADDED       VENDOR             VULNERABILITY
 CVE-2026-63077     2026-08-05  JetBrains          JetBrains TeamCity Deserialization of Untrust…

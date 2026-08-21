@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 323" width="900" height="323" role="img" aria-label="Agent Framework — The scaffolding, not another wrapper. A framework for building tool-using LLM agents: conversation memory, a tool registry, and a loop that decides when to call a tool, runs it, and feeds the result back to the model — with loop guards so it can&#x27;t spin forever. Adding a new tool is a small, defined step, not a rewrite. The infrastructure around agents, rather than another wrapper around a chat endpoint.">
+<title>Agent Framework — The scaffolding, not another wrapper.</title>
+<rect x="0" y="0" width="900" height="323" rx="0" fill="#0A0B0D"/>
+<rect x="44" y="24" width="812" height="275" rx="4" fill="#101216" stroke="#23272E" stroke-width="1"/>
+<line x1="44" y1="24" x2="100" y2="24" stroke="#7FA0B8" stroke-width="2"/>
+<text x="70" y="68" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#E9EBED" text-anchor="start" letter-spacing="-0.2">Agent Framework</text>
+<rect x="310" y="50" width="78" height="21" rx="3" fill="none" stroke="#2E343C" stroke-width="1"/>
+<circle cx="322" cy="60.5" r="2.6" fill="#7FB894"/>
+<text x="334.0" y="64.5" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#7FB894" text-anchor="start" letter-spacing="1.4">ACTIVE</text>
+<text x="830" y="56" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#565D66" text-anchor="end" letter-spacing="2.2">AI · 02 / 03</text>
+<text x="70" y="98" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#8A929B" text-anchor="start" letter-spacing="0">The scaffolding, not another wrapper.</text>
+<text x="70" y="124" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="11" font-weight="500" fill="#7FA0B8" text-anchor="start" letter-spacing="1.1">Python · tools · memory · tool-calling loop</text>
+<line x1="666" y1="44" x2="666" y2="279" stroke="#23272E" stroke-width="1" opacity="0.7"/>
+<text x="761" y="66" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="9.5" font-weight="600" fill="#7FA0B8" text-anchor="middle" letter-spacing="1.2">AGENT LOOP</text>
+<rect x="701" y="78" width="120" height="26" rx="3" fill="#15181D" stroke="#2E343C"/>
+<line x1="701" y1="78" x2="701" y2="104" stroke="#7FA0B8" stroke-width="2"/>
+<text x="711" y="95" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#E9EBED" text-anchor="start" letter-spacing="1">MODEL</text>
+<line x1="731" y1="104" x2="731" y2="132" stroke="#2E343C" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M727,128 L731,134 L735,128" fill="none" stroke="#7FA0B8" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="721" y="121.0" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="9.5" font-weight="500" fill="#7FA0B8" text-anchor="end" letter-spacing="1">call?</text>
+<rect x="701" y="132" width="120" height="26" rx="3" fill="#15181D" stroke="#2E343C"/>
+<line x1="701" y1="132" x2="701" y2="158" stroke="#7FA0B8" stroke-width="2"/>
+<text x="711" y="149" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#E9EBED" text-anchor="start" letter-spacing="1">TOOL</text>
+<text x="771" y="149" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="9" font-weight="400" fill="#565D66" text-anchor="start" letter-spacing="0">registry</text>
+<path d="M825,145 q22,0 22,-24 q0,-24 -22,-24" fill="none" stroke="#7FA0B8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<path d="M821,95 l6,-4 l0,8 z" fill="#7FA0B8"/>
+<text x="763" y="178" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="9" font-weight="400" fill="#565D66" text-anchor="middle" letter-spacing="0.5">result → context</text>
+<text x="70" y="152.0" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#565D66" text-anchor="start" letter-spacing="0">A framework for building tool-using LLM agents: conversation memory, a tool</text>
+<text x="70" y="172.8" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#565D66" text-anchor="start" letter-spacing="0">registry, and a loop that decides when to call a tool, runs it, and feeds the</text>
+<text x="70" y="193.6" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#565D66" text-anchor="start" letter-spacing="0">result back to the model — with loop guards so it can&#x27;t spin forever. Adding a</text>
+<text x="70" y="214.4" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#565D66" text-anchor="start" letter-spacing="0">new tool is a small, defined step, not a rewrite. The infrastructure around</text>
+<text x="70" y="235.2" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#565D66" text-anchor="start" letter-spacing="0">agents, rather than another wrapper around a chat endpoint.</text>
+<rect x="70" y="261.2" width="119.5" height="22" rx="3" fill="#15181D" stroke="#23272E" stroke-width="1"/><text x="79" y="276.2" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#8A929B" text-anchor="start" letter-spacing="1.4">TOOL REGISTRY</text>
+<rect x="196.95" y="261.2" width="65.9" height="22" rx="3" fill="#15181D" stroke="#23272E" stroke-width="1"/><text x="205.95" y="276.2" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#8A929B" text-anchor="start" letter-spacing="1.4">MEMORY</text>
+<rect x="270.35" y="261.2" width="104.2" height="22" rx="3" fill="#15181D" stroke="#23272E" stroke-width="1"/><text x="279.35" y="276.2" font-family="ui-monospace,'SFMono-Regular','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#8A929B" text-anchor="start" letter-spacing="1.4">LOOP GUARDS</text>
+</svg>
